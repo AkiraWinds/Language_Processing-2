@@ -1,6 +1,3 @@
-
-
-```markdown
 # Language Processing Feature Analysis and Classification
 
 This project focuses on analyzing and classifying language processing features using machine learning models. It involves calculating feature differences, training classifiers, and evaluating model performance on various validation sets. Key methods include logistic regression, random forest, and Bayesian optimization for hyperparameter tuning.
@@ -19,7 +16,7 @@ This project focuses on analyzing and classifying language processing features u
 Install packages using:
 ```bash
 pip install pandas numpy scikit-learn bayesian-optimization
-```
+
 
 ## File Descriptions
 
