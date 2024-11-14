@@ -1,6 +1,6 @@
 # Language Processing Feature Analysis and Classification
 
-This project focuses on analyzing and classifying language processing features using machine learning models. It involves calculating feature differences, training classifiers, and evaluating model performance on various validation sets. Key methods include logistic regression, random forest, and Bayesian optimization for hyperparameter tuning.
+This project is based on the **Style Change Detection** task from [PAN 2024](https://pan.webis.de/clef24/pan24-web/style-change-detection.html), which focuses on detecting stylistic differences in written text to determine if multiple authors have contributed to a document. The objective is to identify potential author changes based on linguistic feature analysis and to train machine learning models that can classify changes in writing style effectively.
 
 ## Project Structure
 
